@@ -17,6 +17,7 @@ Understand how pricing and revenue vary by property size and location.
 
 ## Data Source
 Airbnb Listings 2016 (Kaggle)
+https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
 
 ## Dashboard
 https://public.tableau.com/views/AirbnbListings2016VisualizationYafetMulaw/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
